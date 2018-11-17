@@ -24,16 +24,17 @@ body {
 
 .profile {
     font-family: 'Roboto', sans-serif;
-    background-color: (0, 0, 0, .2);
     margin-top: 40px;
-    margin-left: 230px;
+    margin-left: 20px;
+    padding: 30px 0px;
+    padding-left: 200px;
     font-weight: bold;
     width: 750px;  
     color: white;
 }
 
 .profile .name {
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .profile .description {
@@ -118,11 +119,10 @@ header {
     padding-top: 150px;
     height: 400px;
     text-align: center;
-    background-image: url("../resources/header.png");
-    background-color: gray;
+    background-image: url("../resources/header-blur.png");
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-attachment: fixed;
+    background-position: center center;
+    background-size: auto 100%;
 
 }
 
@@ -343,7 +343,7 @@ footer a:hover {
     }
 
     .profile{
-        font-size: 10px;
+        font-size: .2em;
     }
 
     .developerProfile {
@@ -360,11 +360,6 @@ footer a:hover {
         max-height: 80%;
     }
 
-
-    header {
-        background-image: url("../resources/header2.png");
-        background-size: 100%;
-    }
 
     .footerContact {
 
@@ -388,11 +383,6 @@ footer a:hover {
 
     .developerScreenshot img {
         max-width: 100%;
-    }
-
-    header {
-        background-image: url("../resources/header.jpg");
-        background-size: 100%;
     }
 
     .footerContact {
