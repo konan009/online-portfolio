@@ -49,7 +49,7 @@ body {
 }
 
 .one {
-    background-image: url('https://avatars2.githubusercontent.com/u/26689234?s=460&v=4');
+    background-image: url('https://media-exp1.licdn.com/dms/image/C5603AQFhqLi7WgHy2Q/profile-displayphoto-shrink_200_200/0/1646147815781?e=1651708800&v=beta&t=bsaBganjDYfkp7wmMtTCoHUEUm1Ecwd5KuTYUP3mPnA');
 }
 
 /********************************STYLES********************************/
@@ -123,7 +123,7 @@ header {
     background-image: url("../resources/header-blur.png");
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: auto 100%;
+    background-size: 100%;
 
 }
 
